@@ -1,6 +1,5 @@
 const internModel = require("../models/internModel");
 const collegeModel = require("../models/collegeModel")
-const mongoose = require("mongoose");
 
 // =============================Create Intern Api==============================
 
