@@ -6,7 +6,7 @@ const app = express();
 
 app.use(bodyParser.json());
 
-mongoose.connect("mongodb+srv://plutonium-co:Y7XVLNecywgcT8ky@cluster0.ognlwhp.mongodb.net/group58Database", {
+mongoose.connect("mongodb+srv://ShailyTripathi:ShailyCompass2125@shailytripathi.ifjbsp5.mongodb.net/Project_2?retryWrites=true&w=majority", {
    
 })
 .then( () => console.log("MongoDb is connected"))
